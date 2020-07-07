@@ -19,6 +19,8 @@ end
    flat_array = instruments.flatten 
  end
  def using_delete ( array,string)
+   array.delete(string)
+   array
    
    
    
