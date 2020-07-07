@@ -21,9 +21,10 @@ end
    array.delete(string)
    array
    
-   
-   
- end
+  end
+  def using_delete_at (array,integer)
+    
+    
  
   
    
