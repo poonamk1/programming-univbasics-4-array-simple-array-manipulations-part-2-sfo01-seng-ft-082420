@@ -18,10 +18,9 @@ end
    instruments = ["Saxophone", ["Piano", "Trumpet"], "Violin", "Drums", "Flute"]
    flat_array = instruments.flatten 
  end
- def using_delete ( instructors,"Steven")
-   instructors = ["Josh", "Steven", "Sophie", "Steven", "Amanda", "Steven"]
-   no_offense_Steven = "Steven"
-   .delete ( instructors,"Steven")
+ def using_delete ( array,string)
+   
+   
    
  end
  
